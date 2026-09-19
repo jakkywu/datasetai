@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://store-images.s-microsoft.com/image/apps.40362.13549837852321929.7d553819-7d84-49f1-b6fb-e82869382cae.d843cd57-186f-4d51-bb35-3ff62bc4e52a?h=300" width="128" alt="幻金 Logo">
+  <img src="https://store-images.s-microsoft.com/image/apps.40362.13549837852321929.7d553819-7d84-49f1-b6fb-e82869382cae.d843cd57-186f-4d51-bb35-3ff62bc4e52a?h=300" width="96" alt="幻金 Logo">
 </p>
 
 <h1 align="center">幻金</h1>
