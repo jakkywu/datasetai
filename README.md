@@ -10,12 +10,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jakkywu/datasetai/releases/latest"><strong>下载最新版本</strong></a>
-  ·
-  <a href="https://apps.microsoft.com/detail/9NDDX5L0KGRD">Microsoft Store</a>
+  <a href="https://apps.microsoft.com/detail/9NDDX5L0KGRD">
+    <img src="https://get.microsoft.com/images/zh-cn%20dark.svg" width="200" alt="Microsoft Store 下载幻金">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jakkywu/datasetai/releases/latest">下载独立运行包</a>
   ·
   <a href="https://datasetai.cn/">官方网站</a>
 </p>
+
+> Microsoft Store 版和独立运行包包含相同的核心功能，但专业版订阅渠道不同：Store 版通过 Microsoft Store 购买和管理，独立版通过机器码和订阅码激活。请根据实际购买渠道选择安装包，不要同时购买。
 
 > 本仓库仅用于发布幻金 Windows 安装包和使用说明，不提供源代码。
 
@@ -36,7 +42,13 @@
 
 ## 下载
 
+### Microsoft Store（推荐）
+
+适用于大多数 Windows 10/11 用户。通过 [Microsoft Store](https://apps.microsoft.com/detail/9NDDX5L0KGRD) 安装，专业版通过 Microsoft Store 内购，权益与 Microsoft 账号关联，并可在软件内恢复购买。软件更新由 Microsoft Store 自动处理。
+
 ### 独立运行包
+
+适用于无法使用 Microsoft Store、已购买独立版订阅码，或希望免安装运行的用户。
 
 前往 [最新版本](https://github.com/jakkywu/datasetai/releases/latest)，下载：
 
@@ -44,11 +56,7 @@
 DatasetAI.Standalone-<版本号>.zip
 ```
 
-独立运行包无需安装，解压后即可使用。建议优先下载最新版本。
-
-### Microsoft Store
-
-也可以通过 [Microsoft Store](https://apps.microsoft.com/detail/9NDDX5L0KGRD) 安装。商店版本由 Microsoft Store 负责安装和自动更新。
+独立运行包无需安装，解压后即可使用。专业版通过官网说明购买，使用机器码和订阅码激活，不依赖 Microsoft Store 账号；获取软件新版本时需要重新下载。
 
 ## 系统要求
 
