@@ -21,7 +21,7 @@
   <a href="https://datasetai.cn/">官方网站</a>
 </p>
 
-> Microsoft Store 版和独立运行包包含相同的核心功能，但专业版订阅渠道不同：Store 版通过 Microsoft Store 购买和管理，独立版通过机器码和订阅码激活。请根据实际购买渠道选择安装包，不要同时购买。
+> Microsoft Store 版和独立运行包包含相同的核心功能，但专业版订阅渠道不同：Store 版通过 Microsoft Store 订阅和管理，独立版通过机器码和订阅码激活。请根据实际渠道选择安装包，不要同时订阅。
 
 > 本仓库仅用于发布幻金 Windows 安装包和使用说明，不提供源代码。
 
