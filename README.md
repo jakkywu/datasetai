@@ -181,7 +181,6 @@ Windows 默认数据目录：
 - 问题是否可以稳定复现
 
 - 官方网站：<https://datasetai.cn/>
-- 问题反馈：<https://github.com/jakkywu/datasetai/issues>
 - 支持邮箱：<datasetai@sina.com>
 
 ## 免责声明
