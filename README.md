@@ -121,13 +121,13 @@ DatasetAI.Standalone-<版本号>\
 ## 界面预览
 
 <p align="center">
-  <img src="https://store-images.s-microsoft.com/image/apps.12275.13549837852321929.7d553819-7d84-49f1-b6fb-e82869382cae.bd6681ae-067d-499a-a0c4-bde9a2f403da?h=720" width="49%" alt="幻金财务快照界面">
-  <img src="https://store-images.s-microsoft.com/image/apps.1440.13549837852321929.7d553819-7d84-49f1-b6fb-e82869382cae.bb43cd1e-1ed3-4fa9-846b-5491db950800?h=720" width="49%" alt="幻金一键尽调界面">
+  <img src="https://store-images.s-microsoft.com/image/apps.12885.13549837852321929.a0de7f3c-a2ee-47a3-b1a7-465141421e60.5a70af4d-f54f-4aad-8a8c-f45fc3baecb9?h=720" width="49%" alt="幻金财务快照界面">
+  <img src="https://store-images.s-microsoft.com/image/apps.22818.13549837852321929.a0de7f3c-a2ee-47a3-b1a7-465141421e60.6c103ed2-571b-4d2c-9e58-6199f109883a?h=720" width="49%" alt="幻金一键尽调界面">
 </p>
 
 <p align="center">
-  <img src="https://store-images.s-microsoft.com/image/apps.32060.13549837852321929.7d553819-7d84-49f1-b6fb-e82869382cae.2a84c345-ba84-42b7-8259-24663396647f?h=720" width="49%" alt="幻金财务报表界面">
-  <img src="https://store-images.s-microsoft.com/image/apps.43039.13549837852321929.7d553819-7d84-49f1-b6fb-e82869382cae.8e49a6d2-b728-484b-bfae-51817a0b0fde?h=720" width="49%" alt="幻金季度趋势界面">
+  <img src="https://store-images.s-microsoft.com/image/apps.8032.13549837852321929.a0de7f3c-a2ee-47a3-b1a7-465141421e60.e24b9dcf-b504-4dec-92f7-1044690f84ef?h=720" width="49%" alt="幻金财务报表界面">
+  <img src="https://store-images.s-microsoft.com/image/apps.38612.13549837852321929.a0de7f3c-a2ee-47a3-b1a7-465141421e60.c0288461-8abc-44df-afc5-b6d2612541b3?h=720" width="49%" alt="幻金季度趋势界面">
 </p>
 
 ## 数据与隐私
