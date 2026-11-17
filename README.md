@@ -48,7 +48,7 @@
 
 ## 下载
 
-### Microsoft Store（推荐）
+### Microsoft Store
 
 适用于大多数 Windows 10/11 用户。通过 [Microsoft Store](https://apps.microsoft.com/detail/9NDDX5L0KGRD) 安装，专业版通过 Microsoft Store 内购，权益与 Microsoft 账号关联，并可在软件内恢复购买。软件更新由 Microsoft Store 自动处理。
 
